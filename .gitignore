@@ -1,0 +1,19 @@
+# 環境変数ファイル（APIキーを含むため）
+.env
+
+# ログファイル
+triad/logs/*.log
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 一時ファイル
+*.tmp
+*.temp
